@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# README
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=clevermis)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=clevermis&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermis)
+
+
+
+
 
 
