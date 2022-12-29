@@ -11,8 +11,8 @@
 <br/>
 
 <a href="https://github.com/Clevermis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clevermis&theme=buefy&show_icons=true&hide=contribs" width="400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clevermis&theme=buefy&layout=compact" style="float:right; margin: 5px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clevermis&theme=buefy&show_icons=true&hide=contribs" width="450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clevermis&theme=buefy&layout=compact" width="450"/>
 
 <br/>
 
